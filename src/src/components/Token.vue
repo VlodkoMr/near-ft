@@ -61,8 +61,8 @@ export default {
   data() {
     return {
       tokenBalance: 0,
-      address: 'vlodkow.testnet',
-      amount: '5'
+      address: '',
+      amount: ''
     }
   },
   created() {
