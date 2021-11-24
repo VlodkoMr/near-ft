@@ -22,7 +22,7 @@ jobs:
         run: ./build.sh
         # TODO: check that files in `res` are unchanged
 
-      - name: Test
-        uses: actions-rs/cargo@v1
-        with:
-          command: test
+#      - name: Test
+#        uses: actions-rs/cargo@v1
+#        with:
+#          command: test
