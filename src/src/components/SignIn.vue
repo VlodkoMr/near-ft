@@ -16,7 +16,7 @@ export default {
     signIn() {
       window.wallet.requestSignIn(
           window.nearConfig.contractName,
-          'NEAR NFT Test'
+          'NEAR FT Test'
       );
     }
   }

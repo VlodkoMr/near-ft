@@ -1,4 +1,4 @@
-# nft-frontend
+# ft-frontend
 
 ## Project setup
 ```
