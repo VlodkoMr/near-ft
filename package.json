@@ -1,0 +1,11 @@
+{
+  "name": "nft-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "deploy:pages": "gh-pages -d src/dist/"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
